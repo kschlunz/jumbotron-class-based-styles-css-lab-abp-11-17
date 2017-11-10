@@ -50,3 +50,13 @@ h3#header {
   color: #868e96;
 }
 
+div.jumbotron{
+  border-radius: 5px;
+  background-color: #e9ecef;
+  padding: 10px;
+  text-align: center;
+}
+
+h1.jumbotron{
+  font-size: 60px;
+}
